@@ -1,0 +1,5 @@
+{
+  "name": "3D Pet QR Tag Generator",
+  "description": "A web application to design and generate custom 3D-printable QR code tags for pets. Users can input pet information, choose a shape, customize dimensions, and download the model as an STL file for 3D printing.",
+  "requestFramePermissions": []
+}
